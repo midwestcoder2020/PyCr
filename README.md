@@ -34,11 +34,12 @@ point script to tesseract location
 
 use pip to install the dependencies
 
-````
+```
 $ pip install -r reqs.txt
 ```
 
 run script
+
 ```
 $ python main.py
 ```
