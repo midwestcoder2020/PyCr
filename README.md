@@ -25,9 +25,23 @@ download it here [get](https://tesseract-ocr.github.io/tessdoc/Installation.html
 
 
 ## Usage
+
+point script to tesseract location
+
+![alt text](pycr_three.png)
+
+![alt text](pycr_four.png)
+
 ```
 $ python main.py
 ```
+
+### Screenshots
+
+![alt text](pycr_one.png)
+
+![alt text](pycr_two.png)
+
 
 ## Future features
 * enhaced features
