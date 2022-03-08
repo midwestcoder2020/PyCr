@@ -37,8 +37,6 @@ use pip to install the dependencies
 ````
 $ pip install -r reqs.txt
 ```
-
-
 ```
 $ python main.py
 ```
